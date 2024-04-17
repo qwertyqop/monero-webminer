@@ -28,20 +28,6 @@ server = "wss://45.119.82.33:40725";
 
 Open index.html in any web browser and it will automatically start mining.
 
-https://monero-webminer.vercel.app/
-
-
-# Check Progress 
-
-Go to https://moneroocean.stream. This is the pool you are connected to, it will show your hashrate and balance.
-
-# How do i know if it works??
-
-1. Open https://monero-webminer.vercel.app/
-2. Also Open https://moneroocean.stream in a new tab
-3. Paste in my XMR Address 4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi
-4. You will see that "GH-XMR" is Mining. You can also do the same 
-
 # Use In Other Projects 
 
 
@@ -83,21 +69,3 @@ Javascript
     startMining(pool, walletAddress, workerId, threads, password);
     throttleMiner = 20;
     // End Of Mining Code
-    
-    
-#  Donate
-    
-    
-This software is **100% free** to use, and we would greatly appreciate any donations to help support our work. If you'd like to donate, you can use the following cryptocurrency addresses:
-
-
-    BTC:  33qQZT1F5mWPvqM2bjbxQ3AsSYMXHpJsr6
-
-    ETH:  0x641E1449c2f7883F245069f284fC880174b02094
-
-    SOL:  AeYJTfLnok1nkncnvXFoKXmH8zrvtB7heNL9Q2sKNaFr
-
-    XMR:  4657q4dnsjLWtzeW4XN3wG9swFumWAZB9i1pegTLMxVAQy5E5AE8uif42kkHWcWc9vDcLUmzeCf3pV7mmrJQQqqe84dtASi
-
-
-Thank you for choosing our Monero Webminer. We hope you find it useful and profitable
